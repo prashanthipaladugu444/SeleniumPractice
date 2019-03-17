@@ -1,0 +1,1 @@
+INDEX VERSION 1.129+C:\Users\USER\Desktop\Selenium\Selenium_Training\Selenium_Training_sessions\.metadata\.plugins\org.eclipse.jdt.core
